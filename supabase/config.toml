@@ -1,0 +1,4 @@
+project_id = "rrarqrcogcrlimrktrel"
+
+[functions.zas-assistant]
+verify_jwt = false
